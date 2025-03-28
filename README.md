@@ -8,4 +8,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiqj)
